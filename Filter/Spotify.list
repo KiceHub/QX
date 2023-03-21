@@ -1,0 +1,3 @@
+# Spotify分流规则
+HOST-SUFFIX,spotify.com,Spotify
+HOST-SUFFIX,scdn.co,Spotify
