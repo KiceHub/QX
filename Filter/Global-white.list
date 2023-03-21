@@ -1,0 +1,15 @@
+# Global排除列表 - from AGH DNS
+DOMAIN-SUFFIX,adservice.google.com,DIRECT
+DOMAIN-SUFFIX,dl.google.com,DIRECT
+DOMAIN-SUFFIX,dl.l.google.com,DIRECT
+DOMAIN-SUFFIX,tools.google.com,DIRECT
+DOMAIN-SUFFIX,tools.l.google.com,DIRECT
+DOMAIN-SUFFIX,clientservices.googleapis.com,DIRECT
+DOMAIN-SUFFIX,fonts.googleapis.com,DIRECT
+DOMAIN-SUFFIX,storage.googleapis.com,DIRECT
+DOMAIN-SUFFIX,update.googleapis.com,DIRECT
+DOMAIN-SUFFIX,safebrowsing.googleapis.com,DIRECT
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
+DOMAIN-SUFFIX,csi.gstatic.com,DIRECT
+DOMAIN-SUFFIX,fonts.gstatic.com,DIRECT
+DOMAIN-SUFFIX,ssl.gstatic.com,DIRECT
