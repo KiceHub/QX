@@ -5,3 +5,4 @@ Some AD rules for QX.
 ## 来源
 - https://github.com/ddgksf2013
 - https://github.com/app2smile/rules
+- https://github.com/blackmatrix7
