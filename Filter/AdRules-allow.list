@@ -1,0 +1,4 @@
+# AdRules允许列表 - from AGH允许列表
+DOMAIN-SUFFIX,7x24s.com,DIRECT
+DOMAIN-SUFFIX,adsh.wagbridge.taobao.alimama.com,DIRECT
+DOMAIN-SUFFIX,events.baidu.com,DIRECT
