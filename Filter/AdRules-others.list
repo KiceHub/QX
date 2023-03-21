@@ -1,0 +1,22 @@
+# AdRules额外阻止列表 - from AGH自定义规则
+DOMAIN-SUFFIX,jrebel.npegeek.com,REJECT
+DOMAIN-SUFFIX,l.qq.com,REJECT
+DOMAIN-SUFFIX,adsmind.tc.qq.com,REJECT
+DOMAIN-SUFFIX,adsmind.gdtimg.com,REJECT
+DOMAIN-SUFFIX,pgdt.gtimg.com,REJECT
+DOMAIN-SUFFIX,splashqqlive.gtimg.com,REJECT
+DOMAIN-SUFFIX,wa.gtimg.com,REJECT
+DOMAIN-SUFFIX,pgdt.ugdtimg.com,REJECT
+DOMAIN-SUFFIX,midas.gtimg.cn,REJECT
+DOMAIN-SUFFIX,game.weixin.qq.com,REJECT
+DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com,REJECT
+DOMAIN-SUFFIX,oth.eve.mdt.qq.com,REJECT
+DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com,REJECT
+DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com,REJECT
+DOMAIN-SUFFIX,upage.imtt.qq.com,REJECT
+DOMAIN-SUFFIX,nbcollectretry.kugou.com,REJECT
+DOMAIN-SUFFIX,nbcollect.kugou.com,REJECT
+DOMAIN-SUFFIX,taisantech.com,REJECT
+DOMAIN-SUFFIX,mbdp02.bdstatic.com,REJECT
+DOMAIN-SUFFIX,a.app.qq.com,REJECT
+DOMAIN-SUFFIX,gjfzpt.cn,REJECT
