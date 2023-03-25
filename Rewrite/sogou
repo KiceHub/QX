@@ -1,7 +1,0 @@
-# 搜狗输入法
-# 来源：bm7
-# 最后修改：2023-03-25
-
-^https?:\/\/business-cdn\.shouji\.sogou\.com\/wapdl\/hole\/.+?\.jpg url reject
-
-hostname = business-cdn.shouji.sogou.com
