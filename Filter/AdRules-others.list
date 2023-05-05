@@ -20,3 +20,6 @@ DOMAIN-SUFFIX,taisantech.com,REJECT
 DOMAIN-SUFFIX,mbdp02.bdstatic.com,REJECT
 DOMAIN-SUFFIX,a.app.qq.com,REJECT
 DOMAIN-SUFFIX,gjfzpt.cn,REJECT
+DOMAIN-SUFFIX,afdconf.baidu.com,REJECT
+DOMAIN-SUFFIX,httpdns.baidubce.com,REJECT
+DOMAIN-SUFFIX,lc.map.baidu.com,REJECT
