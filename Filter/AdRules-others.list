@@ -23,3 +23,4 @@ DOMAIN-SUFFIX,gjfzpt.cn,REJECT
 DOMAIN-SUFFIX,afdconf.baidu.com,REJECT
 DOMAIN-SUFFIX,httpdns.baidubce.com,REJECT
 DOMAIN-SUFFIX,lc.map.baidu.com,REJECT
+DOMAIN-SUFFIX,sentry.io,REJECT
