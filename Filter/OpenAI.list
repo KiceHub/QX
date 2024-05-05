@@ -1,5 +1,6 @@
 # OpenAI分流策略
 DOMAIN-SUFFIX,openai.com,OpenAI
+DOMAIN-SUFFIX,chatgpt.com,OpenAI
 DOMAIN-SUFFIX,ai.com,OpenAI
 DOMAIN,cdn.auth0.com,OpenAI
 DOMAIN,openaiapi-site.azureedge.net,OpenAI
