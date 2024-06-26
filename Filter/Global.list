@@ -6,7 +6,8 @@ DOMAIN-SUFFIX,goog,PROXY
 DOMAIN-SUFFIX,google,PROXY
 DOMAIN-SUFFIX,minecraft.azureedge.net,PROXY
 DOMAIN-SUFFIX,v2rayssr.com,PROXY
-DOMAIN-SUFFIX,hub.docker.com,PROXY
+DOMAIN-SUFFIX,docker.com,PROXY
+DOMAIN-SUFFIX,docker.io,PROXY
 
 # 固定列表
 DOMAIN-SUFFIX,000webhost.com,PROXY
