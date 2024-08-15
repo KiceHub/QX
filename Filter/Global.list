@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,minecraft.azureedge.net,PROXY
 DOMAIN-SUFFIX,v2rayssr.com,PROXY
 DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
+DOMAIN-SUFFIX,x.com,PROXY
 
 # 固定列表
 DOMAIN-SUFFIX,000webhost.com,PROXY
