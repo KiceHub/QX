@@ -6,9 +6,7 @@ const url = $request.url;
 const isQuanX = typeof $task !== "undefined";
 let header = $request.headers;
 
-if (typeof $response === "undefined") {
-  ;
-} else {
+if (typeof $response !== "undefined") {
   let obj = JSON.parse($response.body);
   if (url.includes("/api.caiyunapp.com/v1/activity")) {
     if (url.includes("&type_id=A03&")) {
