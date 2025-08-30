@@ -4,11 +4,43 @@
 DOMAIN-SUFFIX,gmail,PROXY
 DOMAIN-SUFFIX,goog,PROXY
 DOMAIN-SUFFIX,google,PROXY
+DOMAIN-SUFFIX,googleapis.cn,PROXY
 DOMAIN-SUFFIX,minecraft.azureedge.net,PROXY
-DOMAIN-SUFFIX,v2rayssr.com,PROXY
+DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,chatgpt.com,PROXY
 DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
 DOMAIN-SUFFIX,x.com,PROXY
+DOMAIN-SUFFIX,steampowered.com,PROXY
+DOMAIN-SUFFIX,steamcommunity.com,PROXY
+DOMAIN-SUFFIX,engage.cloudflareclient.com,PROXY
+DOMAIN-SUFFIX,api.imem.app,api.swiftgram.app,PROXY
+DOMAIN-SUFFIX,cdn-telegram.org,PROXY
+DOMAIN-SUFFIX,comments.app,PROXY
+DOMAIN-SUFFIX,contest.com,PROXY
+DOMAIN-SUFFIX,graph.org,PROXY
+DOMAIN-SUFFIX,legra.ph,PROXY
+DOMAIN-SUFFIX,mbrx.app,PROXY
+DOMAIN-SUFFIX,quiz.directory,PROXY
+DOMAIN-SUFFIX,stel.com,PROXY
+DOMAIN-SUFFIX,t.me,PROXY
+DOMAIN-SUFFIX,tdesktop.com,PROXY
+DOMAIN-SUFFIX,telega.one,PROXY
+DOMAIN-SUFFIX,telegra.ph,PROXY
+DOMAIN-SUFFIX,telegram-cdn.org,PROXY
+DOMAIN-SUFFIX,telegram.dog,PROXY
+DOMAIN-SUFFIX,telegram.me,PROXY
+DOMAIN-SUFFIX,telegram.org,PROXY
+DOMAIN-SUFFIX,telegram.space,PROXY
+DOMAIN-SUFFIX,telegramdownload.com,PROXY
+DOMAIN-SUFFIX,telesco.pe,PROXY
+DOMAIN-SUFFIX,tg.dev,PROXY
+DOMAIN-SUFFIX,tx.me,PROXY
+DOMAIN-SUFFIX,usercontent.dev,PROXY
+DOMAIN-SUFFIX,rutracker.org,PROXY
+DOMAIN-SUFFIX,rutracker.cc,PROXY
+DOMAIN-SUFFIX,rutrk.org,PROXY
+DOMAIN-SUFFIX,v2rayssr.com,PROXY
 
 # 固定列表
 DOMAIN-SUFFIX,000webhost.com,PROXY
@@ -4610,7 +4642,6 @@ DOMAIN-SUFFIX,staticflickr.com,PROXY
 DOMAIN-SUFFIX,statueofdemocracy.org,PROXY
 DOMAIN-SUFFIX,stboy.net,PROXY
 DOMAIN-SUFFIX,stc.com.sa,PROXY
-DOMAIN-SUFFIX,steamcommunity.com,PROXY
 DOMAIN-SUFFIX,steel-storm.com,PROXY
 DOMAIN-SUFFIX,steemit.com,PROXY
 DOMAIN-SUFFIX,steganos.com,PROXY
@@ -4625,7 +4656,6 @@ DOMAIN-SUFFIX,sto.cc,PROXY
 DOMAIN-SUFFIX,stoporganharvesting.org,PROXY
 DOMAIN-SUFFIX,stoptibetcrisis.net,PROXY
 DOMAIN-SUFFIX,storagenewsletter.com,PROXY
-DOMAIN-SUFFIX,store.steampowered.com,PROXY
 DOMAIN-SUFFIX,storify.com,PROXY
 DOMAIN-SUFFIX,storm.mg,PROXY
 DOMAIN-SUFFIX,stormmediagroup.com,PROXY
@@ -4693,7 +4723,6 @@ DOMAIN-SUFFIX,szbbs.net,PROXY
 DOMAIN-SUFFIX,szetowah.org.hk,PROXY
 DOMAIN-SUFFIX,t-g.com,PROXY
 DOMAIN-SUFFIX,t.co,PROXY
-DOMAIN-SUFFIX,t.me,PROXY
 DOMAIN-SUFFIX,t.orzdream.com,PROXY
 DOMAIN-SUFFIX,t35.com,PROXY
 DOMAIN-SUFFIX,t66y.com,PROXY
@@ -4783,13 +4812,7 @@ DOMAIN-SUFFIX,teeniefuck.net,PROXY
 DOMAIN-SUFFIX,teensinasia.com,PROXY
 DOMAIN-SUFFIX,tehrantimes.com,PROXY
 DOMAIN-SUFFIX,telecomspace.com,PROXY
-DOMAIN-SUFFIX,telegra.ph,PROXY
-DOMAIN-SUFFIX,telegram.dog,PROXY
-DOMAIN-SUFFIX,telegram.me,PROXY
-DOMAIN-SUFFIX,telegram.org,PROXY
-DOMAIN-SUFFIX,telegramdownload.com,PROXY
 DOMAIN-SUFFIX,telegraph.co.uk,PROXY
-DOMAIN-SUFFIX,telesco.pe,PROXY
 DOMAIN-SUFFIX,tellme.pw,PROXY
 DOMAIN-SUFFIX,tenacy.com,PROXY
 DOMAIN-SUFFIX,tensorflow.org,PROXY
@@ -5265,7 +5288,6 @@ DOMAIN-SUFFIX,unstable.icu,PROXY
 DOMAIN-SUFFIX,untraceable.us,PROXY
 DOMAIN-SUFFIX,uocn.org,PROXY
 DOMAIN-SUFFIX,upcoming.yahoo.com,PROXY
-DOMAIN-SUFFIX,updates.tdesktop.com,PROXY
 DOMAIN-SUFFIX,upghsbc.com,PROXY
 DOMAIN-SUFFIX,upholdjustice.org,PROXY
 DOMAIN-SUFFIX,upload4u.info,PROXY
@@ -5982,3 +6004,4 @@ DOMAIN-SUFFIX,zyzc9.com,PROXY
 DOMAIN-SUFFIX,zzcartoon.com,PROXY
 DOMAIN-SUFFIX,zzcloud.me,PROXY
 DOMAIN-SUFFIX,zzux.com,PROXY
+
