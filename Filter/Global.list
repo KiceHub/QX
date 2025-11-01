@@ -14,7 +14,8 @@ DOMAIN-SUFFIX,x.com,PROXY
 DOMAIN-SUFFIX,steampowered.com,PROXY
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
 DOMAIN-SUFFIX,engage.cloudflareclient.com,PROXY
-DOMAIN-SUFFIX,api.imem.app,api.swiftgram.app,PROXY
+DOMAIN-SUFFIX,api.imem.app,PROXY
+DOMAIN-SUFFIX,api.swiftgram.app,PROXY
 DOMAIN-SUFFIX,cdn-telegram.org,PROXY
 DOMAIN-SUFFIX,comments.app,PROXY
 DOMAIN-SUFFIX,contest.com,PROXY
