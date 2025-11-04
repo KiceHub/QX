@@ -1,21 +1,27 @@
 # GFWlist - from AGH DNS
 
-# 额外加速
+# Google
 DOMAIN-SUFFIX,gmail,PROXY
 DOMAIN-SUFFIX,goog,PROXY
 DOMAIN-SUFFIX,google,PROXY
 DOMAIN-SUFFIX,googleapis.cn,PROXY
-DOMAIN-SUFFIX,minecraft.azureedge.net,PROXY
-DOMAIN-SUFFIX,openai.com,PROXY
-DOMAIN-SUFFIX,chatgpt.com,PROXY
+# Minecraft
+DOMAIN,minecraft.azureedge.net,PROXY
+# Copilot
+DOMAIN,copilot.microsoft.com,PROXY
+# docker
 DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
+# Twitter(X)
 DOMAIN-SUFFIX,x.com,PROXY
+# Steam
 DOMAIN-SUFFIX,steampowered.com,PROXY
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
+# WARP
 DOMAIN-SUFFIX,engage.cloudflareclient.com,PROXY
-DOMAIN-SUFFIX,api.imem.app,PROXY
-DOMAIN-SUFFIX,api.swiftgram.app,PROXY
+# Telegram
+DOMAIN,api.imem.app,PROXY
+DOMAIN,api.swiftgram.app,PROXY
 DOMAIN-SUFFIX,cdn-telegram.org,PROXY
 DOMAIN-SUFFIX,comments.app,PROXY
 DOMAIN-SUFFIX,contest.com,PROXY
@@ -38,12 +44,17 @@ DOMAIN-SUFFIX,telesco.pe,PROXY
 DOMAIN-SUFFIX,tg.dev,PROXY
 DOMAIN-SUFFIX,tx.me,PROXY
 DOMAIN-SUFFIX,usercontent.dev,PROXY
+# rutracker
 DOMAIN-SUFFIX,rutracker.org,PROXY
 DOMAIN-SUFFIX,rutracker.cc,PROXY
 DOMAIN-SUFFIX,rutrk.org,PROXY
+# OpenWrt
+DOMAIN,downloads.openwrt.org,PROXY
+# Others
 DOMAIN-SUFFIX,v2rayssr.com,PROXY
+DOMAIN-SUFFIX,ipwho.is,PROXY
 
-# 固定列表
+# Gfwlist
 DOMAIN-SUFFIX,000webhost.com,PROXY
 DOMAIN-SUFFIX,030buy.com,PROXY
 DOMAIN-SUFFIX,0rz.tw,PROXY
@@ -4597,7 +4608,6 @@ DOMAIN-SUFFIX,spideroak.com,PROXY
 DOMAIN-SUFFIX,spike.com,PROXY
 DOMAIN-SUFFIX,sports.williamhill.com,PROXY
 DOMAIN-SUFFIX,spotflux.com,PROXY
-DOMAIN-SUFFIX,spotify.com,PROXY
 DOMAIN-SUFFIX,spreadshirt.es,PROXY
 DOMAIN-SUFFIX,spring4u.info,PROXY
 DOMAIN-SUFFIX,springboardplatform.com,PROXY
